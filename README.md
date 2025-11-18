@@ -1,6 +1,6 @@
-## Développeur Web Fullstack
+# Développeur Web Fullstack
 
-# Sites sur-mesure, sécurisés, accessibles et conformes RGPD.
+## Sites sur-mesure, sécurisés, accessibles et conformes RGPD.
 
 <!--
 **Benjamin-D-78/Benjamin-D-78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
