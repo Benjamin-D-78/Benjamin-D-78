@@ -19,5 +19,5 @@ https://purekrea.com
 
 </div>
 
-![GitHub Contributions for 2025](https://github-contributions.vercel.app/api/v1/Benjamin-D-78?from=2025-01-01&to=2025-12-31)
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
