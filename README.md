@@ -19,5 +19,5 @@ https://purekrea.com
 
 </div>
 
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Benjamin-D-78&theme=tokyonight)
+![GitHub Contribution Graph](https://github-contributions.vercel.app/api/v1/Benjamin-D-78)
 
