@@ -14,8 +14,9 @@ Je vous accompagne, de l'imagination de votre projet jusqu'à sa conception comp
 
 Toutes mes conceptions sont hébergées sur des serveurs privatifs.
 
+Vous souhaitez en savoir plus ? Rendez-moi visite :
 <b>
 https://purekrea.com
-</b>>
+</b>
 
 </div>
