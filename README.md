@@ -19,4 +19,4 @@ https://purekrea.com
 
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-D-78&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=Benjamin-D-78&show_icons=true&theme=tokyonight)
