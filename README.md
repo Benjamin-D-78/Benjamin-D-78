@@ -18,3 +18,5 @@ https://purekrea.com
 </b>
 
 </div>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-D-78&theme=tokyo-night)
