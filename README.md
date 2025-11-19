@@ -18,6 +18,3 @@ https://purekrea.com
 </b>
 
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-D-78&stats_format=bytes)
-
