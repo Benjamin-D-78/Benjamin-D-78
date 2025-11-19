@@ -19,5 +19,5 @@ https://purekrea.com
 
 </div>
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin-D-78&stats_format=bytes)
 
