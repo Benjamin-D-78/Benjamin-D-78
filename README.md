@@ -10,9 +10,7 @@ J'aime structurer proprement un projet, optimiser les performances, avoir une s�
 
 Je matérialise vos idées et conçois votre projet, de manière "sur-mesure", c'est-à-dire avec du code bien conçu, robuste et bien pensé.
 
-Je vous accompagne, de l'imagination de votre projet jusqu'à sa conception complète.
-
-Toutes mes conceptions sont hébergées sur des serveurs privatifs.
+Je vous accompagne, de l'imagination de votre projet jusqu'à sa conception complète, sur un endroit rien qu'à vous (serveur privé)
 
 Vous souhaitez en savoir plus ? Rendez-moi visite :
 <b>
