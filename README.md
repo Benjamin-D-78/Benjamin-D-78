@@ -19,5 +19,5 @@ https://purekrea.com
 
 </div>
 
-![GitHub Contribution Graph](https://github-contributions.vercel.app/api/v1/Benjamin-D-78)
+![GitHub Contributions for 2025](https://github-contributions.vercel.app/api/v1/Benjamin-D-78?from=2025-01-01&to=2025-12-31)
 
